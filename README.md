@@ -10,7 +10,7 @@ This shows the agent fully initialized and waiting for input. The system is read
 
 ### 2. Querying (The Process)
 ![Querying](assets/querying.jpeg)
-This state captures the moment the user is actively typing their question. It highlights that the system is ready to process user input.
+  This state captures the moment the user is actively typing their question. It highlights that the system is ready to process user input.
 
 ### 3. Query (Submitted)
 ![Query](assets/query.jpeg)
